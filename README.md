@@ -1,17 +1,17 @@
-# Meu Portfólio
+# Meu Portfólio 🚀
 
 Olá! Este é o meu portfólio no GitHub, onde compartilho uma amostra do meu trabalho e projetos pessoais. Sou apaixonado por tecnologia e estou constantemente aprendendo e experimentando novas ideias.
 
-## Sobre Mim
+## Sobre Mim 💡
 
 Sou um desenvolvedor entusiasta que ama criar soluções inovadoras para problemas do dia a dia. Minha jornada no mundo da programação começou há alguns meses e desde então tenho explorado diferentes tecnologias, tudo com o objetivo de entrar na área de desenvolvimento.
 
-## Objetivo
+## Objetivo 🎯
 
 Este repositório serve como um espaço para mostrar um pouco do que sou capaz de fazer. Aqui você encontrará uma variedade de projetos pessoais, pequenos scripts, e talvez até alguns experimentos malucos que eu decidi compartilhar com o mundo.
 
-## Contato
+## Contato 📧
 
 Se você gostaria de entrar em contato comigo para colaborações, oportunidades de trabalho ou apenas para trocar ideias, sinta-se à vontade para me enviar uma mensagem pelo [LinkedIn](https://www.linkedin.com/in/richard-ramalho-37926826a/).
 
-Obrigado por visitar o meu portfólio!
+Obrigado por visitar o meu portfólio! 😊
