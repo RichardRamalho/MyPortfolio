@@ -4,7 +4,7 @@ Olá! Este é o meu portfólio no GitHub, onde compartilho uma amostra do meu tr
 
 ## Sobre Mim
 
-Sou um desenvolvedor entusiasta que ama criar soluções inovadoras para problemas do dia a dia. Minha jornada no mundo da programação começou há alguns anos e desde então tenho explorado diferentes áreas, desde desenvolvimento web até machine learning.
+Sou um desenvolvedor entusiasta que ama criar soluções inovadoras para problemas do dia a dia. Minha jornada no mundo da programação começou há alguns meses e desde então tenho explorado diferentes tecnologias, tudo com o objetivo de entrar na área de desenvolvimento.
 
 ## Objetivo
 
